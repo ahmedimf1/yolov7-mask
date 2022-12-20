@@ -1,0 +1,5 @@
+./images/test/img47.jpg
+./images/test/img49.jpg
+./images/test/img46.jpg
+./images/test/img48.jpg
+./images/test/img45.jpg

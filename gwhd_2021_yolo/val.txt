@@ -1,0 +1,5 @@
+./images/val/img42.jpg
+./images/val/img40.jpg
+./images/val/img41.jpg
+./images/val/img43.jpg
+./images/val/img44.jpg
